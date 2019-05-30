@@ -1,0 +1,12 @@
+.mvn/**
+mvnw**
+.idea/**
+*.iml
+**/target/**
+**/.settings/**
+**/.project/**
+**/.project
+**/.classpath
+**/.factorypath
+logs
+log.txt
